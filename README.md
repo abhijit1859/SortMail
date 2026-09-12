@@ -139,7 +139,7 @@ sortmail/
 
 ---
 
-## Installation
+## Installation Steps
 
 Clone the repository.
 
